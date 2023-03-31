@@ -18,10 +18,12 @@ El siguiente proyecto tiene la función de ingresar un voto dependiendo del cand
 
 6. En Xampp Control Panel, Seleccione Admin en Apache y en el Url, ingrese "http://localhost/SistemaDeVotación/index.php".
 
-## Versiones
+## Versiones a instalar
 
 - Xampp v3.3.0 
 
-- Mysql Workbench 
+- Mysql Workbench 8.0.32
 
-- 8.0.32 PHP 8.2.0
+- PHP 8.2.0
+
+- Visual Studio Code 1.76.2
