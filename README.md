@@ -1,8 +1,10 @@
 # Votantes
 
-## Instrucciones De Ejecución 
+## Descripcion
 
 El siguiente proyecto tiene la función de ingresar un voto dependiendo del candidato, regiones y comunas.
+
+## Instrucciones De Ejecución 
 
 1. Instale Xampp v3.3.0 en su computadora y asegúrese de que el servidor Apache y MySQL estén en ejecución. 
 
