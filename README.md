@@ -1,6 +1,6 @@
 # Votantes
 
-## Descripcion
+## Descripción
 
 El siguiente proyecto tiene la función de ingresar un voto dependiendo del candidato, regiones y comunas.
 
