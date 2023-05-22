@@ -16,7 +16,7 @@ El siguiente proyecto tiene la función de ingresar un voto dependiendo del cand
 
 5. Abra el archivo "SistemaDeVotación" con click derecho "Abrir con Code" o Arrastre la carpeta dentro de Visual Code para poder revisar el código. 
 
-6. En Xampp Control Panel, Seleccione Admin en Apache y en el Url, ingrese "http://localhost/SistemaDeVotación/index.php".
+6. En Xampp Control Panel, Seleccione Admin en Apache y en el Url ingrese "http://localhost/SistemaDeVotación/index.php".
 
 ## Versiones a instalar
 
